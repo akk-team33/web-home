@@ -1,0 +1,22 @@
+-encoding
+'utf-8'
+-protected
+-sourcepath
+'/Users/andi/git.akk/lib-provision/src/main/java:/Users/andi/git.akk/lib-provision/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2019. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/andi/git.akk/lib-provision/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Team33 Provision Library 8.1.2 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/andi/git.akk/lib-provision/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Team33 Provision Library 8.1.2 API'
